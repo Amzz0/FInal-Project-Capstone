@@ -28,5 +28,5 @@ The user can enter into the textbox on the left and the model will automatically
 Reference
 Shiny Application: https://amzz.shinyapps.io/predict-word/
 
-Github Repository: https://github.com/Amzz0/Data-Capstone-Final-Project
+Github Repository: https://github.com/Amzz0/FInal-Project-Capstone
 
